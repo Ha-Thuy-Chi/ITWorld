@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ha Thuy Chi</title>
+  </head>
+  <body>
+    <h1>Thia is a heading 1</h1>
+    <h2>Team profile:</h2>
+    <h3>First member</h3>
+    <h2>Project description:</h2>
+    <h3>Overview</h3>
+    <h6>This is a heading 6</h6>
+  </body>
+</html>
